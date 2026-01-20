@@ -1,0 +1,8 @@
+{
+  "name": "SmartClip AI - Viral Video Architect",
+  "description": "A high-performance intelligent video editing platform focused on deconstructing viral content formulas and reconstructing them into fresh, high-retention short videos using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
